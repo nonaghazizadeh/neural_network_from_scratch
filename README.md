@@ -1,0 +1,4 @@
+# Neural Network from Scratch
+
+This project involves the application of a neural network to the CIFAR-10 dataset, a well-known benchmark in the machine learning community. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. There are 50,000 training images and 10,000 test images.
+The neural network was designed and trained to classify these images into their respective categories. The architecture of the network, the choice of activation functions, and the optimization algorithm were all carefully chosen to suit the nature of the CIFAR-10 dataset. The project involved pre-processing the images, designing the neural network architecture, training the network using the training set, and finally evaluating the performance of the network on the test set.
